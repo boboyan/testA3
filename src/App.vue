@@ -6,10 +6,10 @@
             <h1><span>Subscriptions</span>App</h1>
               <ul class="nav navbar-nav flex-row float-right">
                 <li class="nav-item">
-                  <router-link class="nav-link pr-3" to="/create">Add Subscription</router-link>
+                  <router-link class="nav-link pr-3" to="/">Add Subscription</router-link>
                 </li>
                 <li class="nav-item">
-                  <router-link class="nav-link" to="/">View Subscriptions</router-link>
+                  <router-link class="nav-link" to="/list">View Subscriptions</router-link>
                 </li>
               </ul>
           </div>
