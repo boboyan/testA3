@@ -7,12 +7,12 @@ import 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDcfHjMVn1VDIEa5PWJfrG_dNmRgYspFo8",
-  authDomain: "my-subscriptions1-fddf5.firebaseapp.com",
-  projectId: "my-subscriptions1-fddf5",
-  storageBucket: "my-subscriptions1-fddf5.appspot.com",
-  messagingSenderId: "215323051687",
-  appId: "1:215323051687:web:ef32acb953d7cbe9d9fd82"
+  apiKey: 'AIzaSyDzdiCRyHLe1ZKKGVuKCGLSFMjaGTl79hc',
+  authDomain: 'my-subscriptions-28c4b.firebaseapp.com',
+  projectId: 'my-subscriptions-28c4b',
+  storageBucket: 'my-subscriptions-28c4b.appspot.com',
+  messagingSenderId: '657887791409',
+  appId: '1:657887791409:web:e3750143425383eac84810'
 };
 
 const db = firebase.initializeApp(config);
