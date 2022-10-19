@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
     {
-            path: '/list',
+            path: '/',
             name: 'List',
             component: () => import('../components/List')
         },
