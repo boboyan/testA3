@@ -9,7 +9,7 @@
                   <router-link class="nav-link pr-3" to="/create">Add Subscription</router-link>
                 </li>
                 <li class="nav-item">
-                  <router-link class="nav-link" to="/">View Subscriptions</router-link>
+                  <router-link class="nav-link" to="/list">View Subscriptions</router-link>
                 </li>
               </ul>
           </div>
